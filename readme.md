@@ -1,0 +1,1 @@
+A Node.js RESTful web service to perform CRUD operation using Mongoose as the ODM to interact with MongoDB.

@@ -7,8 +7,15 @@
     "start" : "nodemon server.js" ,
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prashantk1220/crud-node-api"
+  },
   "author": "Prashant K",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashantk1220/crud-node-api/issues"
+  },
   "dependencies": {
     "express": "^4.16.2",
     "mongoose": "^4.13.9"
